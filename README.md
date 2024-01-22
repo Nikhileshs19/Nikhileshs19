@@ -5,9 +5,9 @@ I'm Nikhilesh Shashikumar, a 2nd Year Information Technology Student at MIT Mani
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">
 
-* 🔭 I’m currently working on **Robot Operating System and Flask**
+* 🔭 I’m currently working on **Robot Operating System and Web Development**
 * 🧠  I'm learning **AI/ML, Front End**
-* 🤝  I'm open to collaborating on **any coding/robotics project**
+* 🤝  I'm open to collaborating on **any coding/web-dev project**
 * 📫 You can contact me at **[nikhileshs19@gmail.com](mailto:nikhileshs19@gmail.com)**
 ### Skills
 
