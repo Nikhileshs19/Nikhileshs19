@@ -1,12 +1,12 @@
 Hello There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-I'm Nikhilesh Shashikumar, a 2nd Year Information Technology Student at MIT Manipal
+I'm Nikhilesh Shashikumar, a 3rd Year Information Technology Student at MIT Manipal
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">
 
-* 🔭 I’m currently working on **Robot Operating System and Web Development**
-* 🧠  I'm learning **AI/ML, Front End**
+* 🔭 I’m currently working on **Web Development and DSA**
+* 🧠  I'm learning **AI/ML, Full Stack Projects**
 * 🤝  I'm open to collaborating on **any coding/web-dev project**
 * 📫 You can contact me at **[nikhileshs19@gmail.com](mailto:nikhileshs19@gmail.com)**
 ### Skills
